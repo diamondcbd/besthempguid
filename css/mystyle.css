@@ -38,7 +38,8 @@ body{
 	margin-right: 0%;
 	margin-left: 30px;
 	max-width: 250px;
-	width: 250px;	
+	width: 250px;
+	display: inline-block;
 	}
 	
 .card-text1{
