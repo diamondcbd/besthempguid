@@ -87,12 +87,6 @@
 			<h2 class="text-center md" style="margin-top: 30px;">Why Best Hemp Guide?</h2>
 
 			<div class="row" style="text-align: center; margin-left: 10%;margin-right: 10%; display: inline-block;">
-				<div class="firstcard text-center col-md-6" id="title_message" style="margin-right: 20px;">
-					<p class="card-text" style="padding-top: 25px; padding-bottom: 44px;">
-						Exclusive coupons to help you save money!
-					</p>
-					<img src="images/plant.png" class="img-fluid logoimage" style="width: 20%; padding-bottom: 20px;">
-				</div>
 					<!-- card 1 end -->
 				<div class="firstcard text-center" style="margin-right: 20px;">
 					<p class="card-text"  style="padding-top: 20px; padding-bottom: 25px;">
