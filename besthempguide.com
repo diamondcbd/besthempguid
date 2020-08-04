@@ -83,7 +83,7 @@
 		
 		<!-- Why Best Hemp -->
 	<div id="title_message">
-		<div class="col-12 col-md-12 forboxes pb-5 m-0 p-0 md">
+		<div class="col-12 col-md-12 forboxes pb-5 m-0 p-0">
 			<h2 class="text-center md" style="margin-top: 30px;">Why Best Hemp Guide?</h2>
 
 			<div class="row" style="text-align: center; margin-left: 10%;margin-right: 10%; display: inline-block;">
