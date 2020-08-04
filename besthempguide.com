@@ -82,11 +82,12 @@
 		
 		
 		<!-- Why Best Hemp -->
-		<div class="col-12 col-md-12 forboxes pb-5 m-0 p-0">
-			<h2 class="text-center" style="margin-top: 30px;">Why Best Hemp Guide?</h2>
+	<div id="title_message">
+		<div class="col-12 col-md-12 forboxes pb-5 m-0 p-0 md">
+			<h2 class="text-center md" style="margin-top: 30px;">Why Best Hemp Guide?</h2>
 
 			<div class="row" style="text-align: center; margin-left: 10%;margin-right: 10%; display: inline-block;">
-				<div class="firstcard text-center col-md-6" style="margin-right: 20px;">
+				<div class="firstcard text-center col-md-6" id="title_message" style="margin-right: 20px;">
 					<p class="card-text" style="padding-top: 25px; padding-bottom: 44px;">
 						Exclusive coupons to help you save money!
 					</p>
@@ -114,10 +115,10 @@
 					<img src="images/plant.png" class="img-fluid logoimage" style="width: 20%; padding-bottom: 20px;">
 				</div>
 					<!-- card 4 end -->
-				</div>
-				<!-- inside row end -->
 			</div>
+				<!-- inside row end -->
 		</div>
+	</div>
 		<!-- forboxes end -->
 
 		<div class="col-12 col-md-12 description pb-3 ">
