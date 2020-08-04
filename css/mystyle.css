@@ -8,7 +8,7 @@ body{
 	background:transparent!important;
 }
 .header{
-	background: #f4f4f4;
+	background: #23384e;
 }
 
 .container{
@@ -17,24 +17,52 @@ body{
 .forfirstp{
 	font-size:20px;
 }
-.firstcard, .secondcard, .thirdcard, .fourthcard{
+.firstcardd{
+	margin-left: 20px;
+	margin-right: 20px;
 	color: black!important;
-	box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 20px 0px;
-	border-radius: 40px;
+	box-shadow: #23384e 0px 0px 6px 0px;
+	border-radius: 50px;
 	text-align: center;
 	min-height: 100px;
 	margin-top: 20px;
+}
+
+.firstcard, .secondcard, .thirdcard, .fourthcard{
+	color: black!important;
+	box-shadow: #4abd4c 0px 0px 6px 1px;
+	border-radius: 40px;
+	text-align: center;
+	min-height: 110%;
+	margin-top: 20px;
+	margin-right: 0%;
+	margin-left: 30px;
+	max-width: 250px;
+	width: 250px;	
 	}
+	
+.card-text1{
+	font-size: 100%;
+	line-height:25px;
+	color: black;
+	margin-top: 22px;
+	margin-bottom: 90px;
+	padding-bottom: 25px;
+	margin-right: 8px;
+	margin-left: 8px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
 .card-text{
 	font-size:17px;
 	line-height:25px;
 	color:black;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 20px;
 }
 
-.fourthcard{
-	
-
-}
 .description{
 	background:#f4f4f4;#f1f1f1;
 	padding:0px;
@@ -76,30 +104,40 @@ body{
 	font-size:12px;
 }
 .main-link{
-	background:#fc736b;
+	background: rgba(255, 64, 64, 1) url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/shiny2button_bg.png) center top repeat-x;
+	border: solid rgba(249, 182, 180, 1) 0px;
+	text-align: initial;
 	color:white;
+	border-radius: 5px;
 	padding:20px 50px;
 	border-radius: 4px;
 	font-size:20px;
+	min-width: 150px;
 	text-transform: capitalize;
-	text-shadow:2px 2px 4px rgb(227,171,66);
 	text-decoration: none;
 }
 .main-link:hover{
 	background:rgb(46,171,117);
 	color:white;
 	text-decoration: none;
-
 }
-.coupon-box{
 
+@media only screen and (max-width: 992px) {
+	.main-link{
+		color: white;
+		padding: 20px 30px;
+		}
+}
+
+.coupon-box{
+	border-radius: 10px;
 	background: white;
-	width:80%;
+	width: 60%;
 	margin:0 auto;
 	margin-top:50px;
-	box-shadow:0px 0px 10px 1px rgb(46,171,117);
-
+	box-shadow:0px 0px 10px 1px #4abd4c;
 }
+
 .red{
 	color:#fc736b;
 	font-size:17px;
@@ -109,14 +147,17 @@ body{
 	background:black;
 	color:white;
 }
+
 .forhr{
 	display: block;
-	width:25%;
+	width:10%;
 	margin:0 auto;
-	background:black;
-	height:3px;
+	height: 6px;
+	background-color: #191970;
+	border: 0;
 	border:none;
-	margin-top:30px;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .conectwithus{
 	text-transform: capitalize;
