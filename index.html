@@ -22,7 +22,7 @@
 			</a>
 			</div>
 			<!-- logo side end -->
-			<div class="col-12 col-md-3 pt-3 text-center  social-icons text-center ">
+			<div class="col-12 col-md-3 pt-3 text-center  social-icons text-center" id="title_message">
 					<ul class="pl-0">
 						<li>
 							<a target="_blank" href="https://www.facebook.com/shopcbdmall/">
@@ -86,24 +86,24 @@
 		<div class="col-12 col-md-12 forboxes pb-5 m-0 p-0">
 			<h2 class="text-center md" style="margin-top: 30px;">Why Best Hemp Guide?</h2>
 
-			<div class="row" style="text-align: center; margin-left: 10%;margin-right: 10%; display: inline-block;">
-					<!-- card 1 end -->
+			<div class="row" style="margin-left: 14%; margin-right: 10%; display: inline-block;">
+				
 				<div class="firstcard text-center" style="margin-right: 20px;">
-					<p class="card-text"  style="padding-top: 20px; padding-bottom: 25px;">
+					<p class="card-text"  style="padding-top: 22px;">
 						Expert advice and recommendations from real CBD users!
 					</p>
 					<img src="images/plant.png" class="img-fluid logoimage" style="width: 18%; padding-bottom: 20px;">
 				</div>
 					<!-- card 2 end -->
 				<div class="firstcard text-center col-md-6" style="margin-right: 20px;">
-					<p class="card-text"  style="padding-top: 20px;padding-bottom: 5px;">
+					<p class="card-text"  style="padding-top: 20px;">
 						Regular Updates - We're regularly updating our reviews and rankings!
 					</p>
 					<img src="images/plant.png" class="img-fluid logoimage" style="width: 20%; padding-bottom: 20px;">
 				</div>
 					<!-- card 3 end -->
 				<div class="firstcard text-center col-md-6">
-					<p class="card-text"  style="padding-top: 20px; padding-bottom: 28px;">
+					<p class="card-text"  style="padding-top: 20px;">
 						100% Independent! Brands can’t pay for reviews or placement!
 					</p>
 					<img src="images/plant.png" class="img-fluid logoimage" style="width: 20%; padding-bottom: 20px;">
